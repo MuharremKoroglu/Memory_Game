@@ -3,7 +3,7 @@
 #### Thank You for taking the time to view my repository 
 
 ## <h2> About This App <img src = "https://c.tenor.com/JsoERRQcZqYAAAAi/thumbs-up-joypixels.gif" width = "42"></h2>
-This app is a memory game. We used one Label each for game time, score, and high score. We used one button for the tip at the bottom. We used twelve ImageViews for the images used on the screen. We added one interesting picture to these pictures. In this way, these images are displayed when the application is first opened and the user tries to match the actual images. The user has a total of 25 seconds. He has to score as high as he can during this time. The user's high score is recorded with the UserDefaults class. In this way, the application remains registered as long as it is not deleted from the phone. We used 2 separate Timers so that the game time and the visuals can turn themselves off in 1.5 seconds if they do not match. In this way, if the user fails to match the images, the images are automatically closed. Apart from that, we wrote a separate function for each image so that the images can match each other. In this way, when the images match, the score automatically increases and the images disappear. In this way, the user can understand how close he is to the finish. When the time expires, a Warning box is shown to the user. If the user clicks the yes button, the application resets everything except the high score and starts all over again. If he clicks the no button, he gives up playing the game. The clue at the end shows all the images to the user for 1.5 seconds. In this way, the user can get help where he has difficulty. But it should not be forgotten that the right to hint is limited to only 1. So he can click the button only once. Finally, we made readability improvements in the application.
+This app is a memory game. We used one Label each for game time, score, and high score. We used one button for the tip at the bottom. We used twelve ImageViews for the images used on the screen. We added one highlighted picture to these pictures. In this way, these images are displayed when the application is first opened and the user tries to match the actual images. The user has a total of 25 seconds. He has to score as high as he can during this time. The user's high score is recorded with the UserDefaults class. In this way, the application remains registered as long as it is not deleted from the phone. We used 2 separate Timers so that the game time and the visuals can turn themselves off in 1.5 seconds if they do not match. In this way, if the user fails to match the images, the images are automatically closed. Apart from that, we wrote a separate function for each image so that the images can match each other. In this way, when the images match, the score automatically increases and the images disappear. In this way, the user can understand how close he is to the finish. When the time expires, a Warning box is shown to the user. If the user clicks the yes button, the application resets everything except the high score and starts all over again. If he clicks the no button, he gives up playing the game. The clue at the end shows all the images to the user for 1.5 seconds. In this way, the user can get help where he has difficulty. But it should not be forgotten that the right to hint is limited to only 1. So he can click the button only once. Finally, we made readability improvements in the application.
 
 
 
@@ -27,18 +27,8 @@ This app is a memory game. We used one Label each for game time, score, and high
 <h2> Images <img src = "https://media2.giphy.com/media/psneItdLMpWy36ejfA/source.gif" width = "62"> </h2>
   <div class="column">
   
-  
- 
-
 
 https://user-images.githubusercontent.com/68854616/192505955-e54f9754-b8c9-4b89-bcea-05421d4ba596.mp4
-
-
-
-
-
-
-
 
 
 
